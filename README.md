@@ -11,8 +11,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/jquery/jquery-original-wordmark.svg" alt="jquery" width="35" height="35"/>
   </p>
 
-<hr>
-
 
 ***
 Feel free to star ⭐ this repository if you like it!
